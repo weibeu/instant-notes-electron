@@ -13,6 +13,6 @@
   "dependencies": {
     "Electron": "latest",
     "electron": "^7.1.1",
-    "electron-packager": "^14.1.0"
+    "electron-packager": "^17.1.2"
   }
 }
